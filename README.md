@@ -1,11 +1,13 @@
-This is the work for Jedsada Thavornfung and Kernell Snow as a part of Media Bridge project at Georgia Tech. 
-# Active FiltrationExperiential Data Visualization | LMC 6650An interactive installation that makes the invisible visible: exploring the density, persistence, and biological specificity of the air we breathe during allergy seasons.
+This is the work for _**Jedsada Thavornfung (@jedsadtha)**_ and _**Kernell Snow (@colonel-snow)**_ as a part of Media Bridge project at Georgia Tech. 
 
-## Project Overview"How can pollen affect your life?"Active Filtration is an experiential data visualization that reacts dynamically to real-time environment data and user presence. The display is divided into three vertical panels representing the core allergy seasons: Spring (left), Summer (center), and Fall (right).As users approach the installation, face-tracking technology attaches season-specific pollen particles to their faces. The density of these particles isn't arbitrary—it is driven by live, daily pollen count data for Atlanta, GA.
-### Key FeaturesDynamic Particle Simulation: Pollen grains drift based on real botanical characteristics (weight, size, and shape derived from documented botanical data).Real-time Data Integration: Particle density fluctuates daily based on live Atlanta pollen counts.Interactive Face-Tracking: Pollen accumulates on the user's face the longer they stand in front of the screen.Gesture Control: Users can swipe their hands to temporarily disperse the pollen cloud, mimicking the temporary and partial nature of real-world allergy avoidance.Symptom Visualization: When accumulation thresholds are crossed, the screen dynamically displays allergen-specific symptoms and severity.
+# **Active FiltrationExperiential Data Visualization** 
+_LMC 6650An interactive installation that makes the invisible visible: exploring the density, persistence, and biological specificity of the air we breathe during allergy seasons._
 
-## System Architecture & Interaction
-### Main DisplayThe main background visualizes global seasonal data:$$\text{Pollen Count per Season} + \text{Types of Pollen per Season}$$It renders the distinct physical shapes of common pollen types unique to each season.
-### Interaction DisplayWhen a user engages with the camera, the system tracks and layers:Types of Pollen matching the current active season.Amount of Pollen Collected relative to user dwell time.Pollen Potency multipliers.Visual overlays of Allergy Symptoms & Severity (e.g., redness, congestion effects).
+**Project Overview**: _"How can pollen affect your life?"_ Active Filtration is an experiential data visualization that reacts dynamically to real-time environment data and user presence. The display is divided into three vertical panels representing the core allergy seasons: Spring (left), Summer (center), and Fall (right).As users approach the installation, face-tracking technology attaches season-specific pollen particles to their faces. The density of these particles isn't arbitrary—it is driven by live, daily pollen count data for Atlanta, GA.
 
-## Data Sources & ReferencesThis project utilizes authentic botanical metrics and live environmental data to drive the simulation:Live Pollen Counts: Atlanta Allergy & AsthmaPollen Morphological Data: Science News - Physics Explains Pollen DiversityHealth & Symptom Metrics: CDC - Allergens and Pollen & WebMD
+**Key Features**
+* **Dynamic Particle Simulation**: Pollen grains drift based on real botanical characteristics (weight, size, and shape derived from documented botanical data).
+* **Real-time Data Integration**: Particle density fluctuates daily based on live Atlanta pollen counts.
+* **Interactive Face-Tracking**: Pollen accumulates on the user's face the longer they stand in front of the screen.
+* **Gesture Control**: Users can swipe their hands to temporarily disperse the pollen cloud, mimicking the temporary and partial nature of real-world allergy avoidance.
+* **Symptom Visualization**: When accumulation thresholds are crossed, the screen dynamically displays allergen-specific symptoms and severity.
