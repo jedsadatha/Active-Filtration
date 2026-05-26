@@ -1,4 +1,4 @@
-This is the work for _**Jedsada Thavornfung (@jedsadtha)**_ and _**Kernell Snow (@colonel-snow)**_ as a part of Media Bridge project at Georgia Tech. 
+This is the work for _**Jedsada Thavornfung (@jedsadatha)**_ and _**Kernell Snow (@Colonel-Snow)**_ as a part of Media Bridge project at Georgia Tech. 
 
 # **Active FiltrationExperiential Data Visualization** 
 _LMC 6650An interactive installation that makes the invisible visible: exploring the density, persistence, and biological specificity of the air we breathe during allergy seasons._
