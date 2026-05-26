@@ -15,6 +15,7 @@ The display is divided into three vertical panels representing the core allergy 
 * **Symptom Visualization**: When accumulation thresholds are crossed, the screen dynamically displays allergen-specific symptoms and severity.
 
 _LIVE WEBSITE: https://jedsadatha.github.io/Active-Filtration/_
+
 Note: 
 * Press arrow up or down to adjust font size.
 * Press arrow left or right to adjust window size.
